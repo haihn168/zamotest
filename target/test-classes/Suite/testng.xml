@@ -1,0 +1,7 @@
+<suite name="Suite1" verbose="1" >
+    <test name="UITest" >
+        <classes>
+            <class name="UITest.CalendarTest" />
+        </classes>
+    </test>
+</suite>
